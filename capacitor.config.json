@@ -1,0 +1,16 @@
+{
+  "appId": "com.nagmud.youthclub",
+  "appName": "নাগমুদ যুব ক্রীড়া সংঘ",
+  "webDir": "www",
+  "backgroundColor": "#101D35",
+  "android": { "allowMixedContent": false },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "launchAutoHide": false,
+      "backgroundColor": "#101D35",
+      "showSpinner": false
+    },
+    "StatusBar": { "backgroundColor": "#087F5B", "style": "DARK" }
+  }
+}
